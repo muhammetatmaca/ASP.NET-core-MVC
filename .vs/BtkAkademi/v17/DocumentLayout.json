@@ -1,0 +1,294 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\muham\\Desktop\\MVCEG\u0130T\u0130M\\BtkAkademi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E515F9A9-25F1-405E-B08B-BF7D87319A48}|BtkAkademi.csproj|C:\\Users\\muham\\Desktop\\MVCEG\u0130T\u0130M\\BtkAkademi\\views\\course\\feedback.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E515F9A9-25F1-405E-B08B-BF7D87319A48}|BtkAkademi.csproj|solutionrelative:views\\course\\feedback.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E515F9A9-25F1-405E-B08B-BF7D87319A48}|BtkAkademi.csproj|C:\\Users\\muham\\Desktop\\MVCEG\u0130T\u0130M\\BtkAkademi\\controllers\\coursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E515F9A9-25F1-405E-B08B-BF7D87319A48}|BtkAkademi.csproj|solutionrelative:controllers\\coursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E515F9A9-25F1-405E-B08B-BF7D87319A48}|BtkAkademi.csproj|C:\\Users\\muham\\Desktop\\MVCEG\u0130T\u0130M\\BtkAkademi\\models\\candidate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E515F9A9-25F1-405E-B08B-BF7D87319A48}|BtkAkademi.csproj|solutionrelative:models\\candidate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E515F9A9-25F1-405E-B08B-BF7D87319A48}|BtkAkademi.csproj|C:\\Users\\muham\\Desktop\\MVCEG\u0130T\u0130M\\BtkAkademi\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E515F9A9-25F1-405E-B08B-BF7D87319A48}|BtkAkademi.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E515F9A9-25F1-405E-B08B-BF7D87319A48}|BtkAkademi.csproj|C:\\Users\\muham\\Desktop\\MVCEG\u0130T\u0130M\\BtkAkademi\\views\\course\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E515F9A9-25F1-405E-B08B-BF7D87319A48}|BtkAkademi.csproj|solutionrelative:views\\course\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E515F9A9-25F1-405E-B08B-BF7D87319A48}|BtkAkademi.csproj|C:\\Users\\muham\\Desktop\\MVCEG\u0130T\u0130M\\BtkAkademi\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E515F9A9-25F1-405E-B08B-BF7D87319A48}|BtkAkademi.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E515F9A9-25F1-405E-B08B-BF7D87319A48}|BtkAkademi.csproj|c:\\users\\muham\\desktop\\mvceg\u0130t\u0130m\\btkakademi\\views\\course\\apply.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E515F9A9-25F1-405E-B08B-BF7D87319A48}|BtkAkademi.csproj|solutionrelative:views\\course\\apply.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E515F9A9-25F1-405E-B08B-BF7D87319A48}|BtkAkademi.csproj|C:\\Users\\muham\\Desktop\\MVCEG\u0130T\u0130M\\BtkAkademi\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E515F9A9-25F1-405E-B08B-BF7D87319A48}|BtkAkademi.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E515F9A9-25F1-405E-B08B-BF7D87319A48}|BtkAkademi.csproj|C:\\Users\\muham\\Desktop\\MVCEG\u0130T\u0130M\\BtkAkademi\\models\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E515F9A9-25F1-405E-B08B-BF7D87319A48}|BtkAkademi.csproj|solutionrelative:models\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E515F9A9-25F1-405E-B08B-BF7D87319A48}|BtkAkademi.csproj|C:\\Users\\muham\\Desktop\\MVCEG\u0130T\u0130M\\BtkAkademi\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E515F9A9-25F1-405E-B08B-BF7D87319A48}|BtkAkademi.csproj|solutionrelative:views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E515F9A9-25F1-405E-B08B-BF7D87319A48}|BtkAkademi.csproj|C:\\Users\\muham\\Desktop\\MVCEG\u0130T\u0130M\\BtkAkademi\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E515F9A9-25F1-405E-B08B-BF7D87319A48}|BtkAkademi.csproj|solutionrelative:views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E515F9A9-25F1-405E-B08B-BF7D87319A48}|BtkAkademi.csproj|C:\\Users\\muham\\Desktop\\MVCEG\u0130T\u0130M\\BtkAkademi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E515F9A9-25F1-405E-B08B-BF7D87319A48}|BtkAkademi.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E515F9A9-25F1-405E-B08B-BF7D87319A48}|BtkAkademi.csproj|C:\\Users\\muham\\Desktop\\MVCEG\u0130T\u0130M\\BtkAkademi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E515F9A9-25F1-405E-B08B-BF7D87319A48}|BtkAkademi.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E515F9A9-25F1-405E-B08B-BF7D87319A48}|BtkAkademi.csproj|C:\\Users\\muham\\Desktop\\MVCEG\u0130T\u0130M\\BtkAkademi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E515F9A9-25F1-405E-B08B-BF7D87319A48}|BtkAkademi.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 14,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\muham\\Desktop\\MVCEG\u0130T\u0130M\\BtkAkademi\\Views\\Course\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Course\\Index.cshtml",
+              "ToolTip": "C:\\Users\\muham\\Desktop\\MVCEG\u0130T\u0130M\\BtkAkademi\\Views\\Course\\Index.cshtml",
+              "RelativeToolTip": "Views\\Course\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-08T20:38:07.757Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\muham\\Desktop\\MVCEG\u0130T\u0130M\\BtkAkademi\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\muham\\Desktop\\MVCEG\u0130T\u0130M\\BtkAkademi\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "Views\\Home\\Privacy.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-08T21:58:05.641Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Apply.cshtml",
+              "DocumentMoniker": "C:\\Users\\muham\\Desktop\\MVCEG\u0130T\u0130M\\BtkAkademi\\Views\\Course\\Apply.cshtml",
+              "RelativeDocumentMoniker": "Views\\Course\\Apply.cshtml",
+              "ToolTip": "C:\\Users\\muham\\Desktop\\MVCEG\u0130T\u0130M\\BtkAkademi\\Views\\Course\\Apply.cshtml",
+              "RelativeToolTip": "Views\\Course\\Apply.cshtml",
+              "ViewState": "AQIAADwAAAAAAAAAAAAAAE4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-08T21:53:56.502Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\muham\\Desktop\\MVCEG\u0130T\u0130M\\BtkAkademi\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\muham\\Desktop\\MVCEG\u0130T\u0130M\\BtkAkademi\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAABQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-08T20:10:24.907Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CourseController.cs",
+              "DocumentMoniker": "C:\\Users\\muham\\Desktop\\MVCEG\u0130T\u0130M\\BtkAkademi\\Controllers\\CourseController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CourseController.cs",
+              "ToolTip": "C:\\Users\\muham\\Desktop\\MVCEG\u0130T\u0130M\\BtkAkademi\\Controllers\\CourseController.cs",
+              "RelativeToolTip": "Controllers\\CourseController.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAA1wB4AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-08T20:05:36.578Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\muham\\Desktop\\MVCEG\u0130T\u0130M\\BtkAkademi\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\muham\\Desktop\\MVCEG\u0130T\u0130M\\BtkAkademi\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA4AAABpAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-09T17:56:32.286Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Feedback.cshtml",
+              "DocumentMoniker": "C:\\Users\\muham\\Desktop\\MVCEG\u0130T\u0130M\\BtkAkademi\\Views\\Course\\Feedback.cshtml",
+              "RelativeDocumentMoniker": "Views\\Course\\Feedback.cshtml",
+              "ToolTip": "C:\\Users\\muham\\Desktop\\MVCEG\u0130T\u0130M\\BtkAkademi\\Views\\Course\\Feedback.cshtml",
+              "RelativeToolTip": "Views\\Course\\Feedback.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-09T15:48:54.651Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "C:\\Users\\muham\\Desktop\\MVCEG\u0130T\u0130M\\BtkAkademi\\Models\\Repository.cs",
+              "RelativeDocumentMoniker": "Models\\Repository.cs",
+              "ToolTip": "C:\\Users\\muham\\Desktop\\MVCEG\u0130T\u0130M\\BtkAkademi\\Models\\Repository.cs",
+              "RelativeToolTip": "Models\\Repository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-09T14:55:26.283Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Candidate.cs",
+              "DocumentMoniker": "C:\\Users\\muham\\Desktop\\MVCEG\u0130T\u0130M\\BtkAkademi\\Models\\Candidate.cs",
+              "RelativeDocumentMoniker": "Models\\Candidate.cs",
+              "ToolTip": "C:\\Users\\muham\\Desktop\\MVCEG\u0130T\u0130M\\BtkAkademi\\Models\\Candidate.cs",
+              "RelativeToolTip": "Models\\Candidate.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-08T19:34:25.406Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\muham\\Desktop\\MVCEG\u0130T\u0130M\\BtkAkademi\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\muham\\Desktop\\MVCEG\u0130T\u0130M\\BtkAkademi\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-08T19:34:10.788Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\muham\\Desktop\\MVCEG\u0130T\u0130M\\BtkAkademi\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\muham\\Desktop\\MVCEG\u0130T\u0130M\\BtkAkademi\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-08T22:10:27.346Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\muham\\Desktop\\MVCEG\u0130T\u0130M\\BtkAkademi\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\muham\\Desktop\\MVCEG\u0130T\u0130M\\BtkAkademi\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-09T14:22:46.394Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\muham\\Desktop\\MVCEG\u0130T\u0130M\\BtkAkademi\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\muham\\Desktop\\MVCEG\u0130T\u0130M\\BtkAkademi\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-08T22:10:35.47Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\muham\\Desktop\\MVCEG\u0130T\u0130M\\BtkAkademi\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\muham\\Desktop\\MVCEG\u0130T\u0130M\\BtkAkademi\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAUwBoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-08T19:34:54.565Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

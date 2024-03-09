@@ -1,0 +1,23 @@
+﻿@model Candidate
+
+<div>
+    <h3 class="display-4"> KAYITINIZ ALINMIŞTIR BİLGİ!!  @Model.FullName </h3>
+
+    <p class="lead"> ulaştırmasına yardımcı oldu controoler bağlantıları tam sağlanamadı <mark>tebrikler</mark></p>
+    <p class="lead"> teşekkürler</p>
+
+    <hr />
+
+    <blockquote class="blockquote">şu kursa kaydolunuz @Model.SelectedCourse</blockquote>
+
+    <p class="text-muted">
+        @Model.ApplyAt tarihli kaydınız alınmıştır.
+    </p>
+
+    <div class="btn-group">
+        <a class="btn btn-outline-success"  asp-action="Index"> kayıtları görmek için tıkla</a>
+        <a class="btn btn-success" asp-action="Index" asp-controller="Home">ANA SAYFAYA DÖN BAKİM</a>
+    </div>
+
+</div>
+
